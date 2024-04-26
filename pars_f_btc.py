@@ -1,7 +1,6 @@
 from binance import Client
 
 
-
 API_KEY = ''
 API_SECRET = ''
 
